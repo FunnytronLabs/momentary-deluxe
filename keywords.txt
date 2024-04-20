@@ -1,0 +1,7 @@
+momentary_deluxe	KEYWORD1
+poll	KEYWORD2
+holdTime	KEYWORD2
+set_pressDebounceTime	KEYWORD2
+set_releaseDebounceTime	KEYWORD2
+set_pressHoldTime	KEYWORD2
+set_doublePressTime	KEYWORD2
